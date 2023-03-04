@@ -1,0 +1,3 @@
+name: ProductosRest
+packages:
+- path: com.gestionproductos.productosrest
